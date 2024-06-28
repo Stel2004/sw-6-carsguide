@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06c52952-5dfc-43ed-be41-8ed7d5d019f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guide/cars/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guide/cars/pages/FindDealersPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guide/cars/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guide/cars/pages/NewCarPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guide/cars/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/guide/cars/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guide/cars/runner/RunCukeRegressionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guide/cars/runner/RunCukeSanityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guide/cars/runner/RunCukeSmokeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guide/cars/runner/RunCukeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guide/cars/steps/BuySteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guide/cars/steps/FindDealers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/guide/cars/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/extent.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/buy.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/finddealers.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/properiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/properiesfile/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/properiesfile/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/properiesfile/spark-config.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2iQ9h6rTUC8SsDHkqaEQ5ynu4ME" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Feature: buy.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Search the buy car with model.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.RunCukeTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/smita/IdeaProjects/sw-6-carsguide/src/test/resources&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\smita\IdeaProjects\sw-6-carsguide\src\test\resources" />
+      <recent name="C:\Users\smita\IdeaProjects\sw-6-carsguide\src\test\java" />
+      <recent name="C:\Users\smita\IdeaProjects\sw-6-carsguide\src\test\java\guide\cars" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="guide.cars.utility" />
+      <recent name="guide.cars.propertyreader" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RunCukeTest">
+    <configuration name="Scenario: Search the buy car with model" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/buy.feature" />
+      <option name="GLUE" value="guide.cars.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="sw-6-carsguide" />
+      <option name="NAME_FILTER" value="^Search the buy car with model$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Search the buy car with model$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Search the buy car with model" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sw-6-carsguide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guide.cars.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guide.cars.runner" />
+      <option name="MAIN_CLASS_NAME" value="guide.cars.runner.RunCukeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunCukeTest" />
+        <item itemvalue="Cucumber Java.Scenario: Search the buy car with model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c52952-5dfc-43ed-be41-8ed7d5d019f4" name="Changes" comment="" />
+      <created>1712910869141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712910869141</updated>
+    </task>
+    <servers />
+  </component>
+</project>
